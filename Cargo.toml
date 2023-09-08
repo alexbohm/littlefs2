@@ -23,6 +23,7 @@ version = "0.2"
 
 [dependencies.littlefs2-sys]
 version = "0.1.6"
+path = "../littlefs2-sys"
 
 [dependencies.serde]
 version = "1"
